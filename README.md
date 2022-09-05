@@ -1,6 +1,6 @@
 ## Descripción 💬
 
-✔ MapsApp es un proyecto donde hago uso de mapas con Mapbox usando React + Typescript y utilizando APIS.
+✔ MapsApp es un proyecto donde hago uso de mapas con Mapbox usando React + Typescript y utilizando APIS. En este aprendi como hacer el consumo de la API de mapbox.com como usar las direcciones, mostrar las lineas (polylines), mostrar cuanto es el recorrido y cuanto es la duración aproximada para llegar al destino y otras cosas mas.
 
 ## Autor 🤠
 
