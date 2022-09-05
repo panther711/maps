@@ -10,12 +10,11 @@ export const SearchBar = () => {
     const debounceRef = useRef<NodeJS.Timeout>()
 
     const onQueryChanged = (e: ChangeEvent<HTMLInputElement>) => {
-        if (debounceRef.current)
-            clearTimeout(debounceRef.current)
 
-        debounceRef.current = setTimeout(() => {
-            searchPlacesByTerm(e.target.value)
-        }, 350)
+        if (debounceRef.current) clearTimeout(debounceRef.current)
+
+        debounceRef.current = setTimeout(() => searchPlacesByTerm(e.target.value), 350)
+
     }
 
     return (
