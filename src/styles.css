@@ -40,6 +40,6 @@ button {
 
 @media screen and (max-width: 450px) {
     .search-container {
-        width: 140px;
+        width: 160px;
     }
 }
