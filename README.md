@@ -34,7 +34,7 @@ Si quieres contratarme puedes escribirme a jeanrdev@gmail.com o a mi [LinkedIn](
 
 # Vista previa 🔎
 
-* falta captura de la web *
+![map](https://user-images.githubusercontent.com/90219458/188413149-56a7f363-584c-4c55-8423-9d87198c256c.PNG)
 
 <small>Creado por Jean Rondón</small>
 
