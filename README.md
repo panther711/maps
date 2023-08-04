@@ -1,45 +1,42 @@
-## Descripción 💬
+## Description 💬
 
-✔ MapsApp es un proyecto donde hago uso de mapas con Mapbox usando React + Typescript y utilizando APIS. En este aprendi como hacer el consumo de la API de mapbox.com como usar las direcciones, mostrar las lineas (polylines), mostrar cuanto es el recorrido y cuanto es la duración aproximada para llegar al destino y otras cosas mas.
+✔ MapsApp is a project where I make use of maps with Mapbox using React + Typescript and using APIS. In this I learned how to consume the mapbox.com API, how to use the addresses, show the lines (polylines), show how long the route is and how long is the approximate duration to reach the destination and other things.
 
-## Autor 🤠
+## Author 🤠
 
-· [LinkedIn](https://www.linkedin.com/in/jeandv/) <br>
-· [Twitter](https://www.twitter.com/r4yb4/) <br>
-· [Instagram](https://www.instagram.com/._jeanr/) <br>
-· [GitHub](https://github.com/jeandv/) 
+· [GitHub](https://github.com/panther711/)
 
-## URL para ver el resultado 👁‍🗨
+## URL to see the result 👁‍🗨
 
-✔ Para ver el resultado final puedes verlo aquí! https://mapsapp.vercel.app
+✔ To see the final result you can see it here! https://mapsapp.vercel.app
 
-## Tecnologias usadas 🛠️
+## Technologies used 🛠️
 
-· HTML5 <br>
-· CSS <br>
-· Bootstrap <br>
-· TypeScript <br>
-· React<br>
-· Components <br>
+HTML5 <br>
+CSS <br>
+Bootstrap <br>
+TypeScript <br>
+React<br>
+Components<br>
 · Hooks <br>
 · Mapbox <br>
 
-## Instalación 💻
+## Installation 💻
 
-✔ Sigue los pasos mas abajo.
+✔ Follow the steps below.
 
-## Contratación 📧
+## Recruitment 📧
 
-Si quieres contratarme puedes escribirme a jeanrdev@gmail.com o a mi [LinkedIn](https://www.linkedin.com/in/jeandv/) para consultas o tambien puedes hablarme por Whatsapp +58 4245494242
+If you want to hire me you can write to me at jeanrdev@gmail.com or my [LinkedIn](https://www.linkedin.com/in/jeandv/) for questions or you can also talk to me on WhatsApp +58 4245494242
 
-# Vista previa 🔎
+# Preview 🔎
 
 ![map](https://user-images.githubusercontent.com/90219458/188413149-56a7f363-584c-4c55-8423-9d87198c256c.PNG)
 
-<small>Creado por Jean Rondón</small>
+<small>Created by Jean Rondón</small>
 
 
-//////////////////////////////
+/////////////////////////////
 
 # Getting Started with Create React App
 
@@ -74,13 +71,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
